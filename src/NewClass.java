@@ -14,9 +14,9 @@ import java.sql.SQLException;
  *
  * @author LAB08
  */
-
-public class NewClass
-{
+// PASO -1 MOSTRAR Y RESOLVER EL PPROYECTO
+public class NewClas
+{     
  impoax.swt java systln new class
  import java.awt.conexcion*;//   
     
@@ -34,10 +34,10 @@ private public=driver;
 {
    //PASO -declara CAMPOS Y VARIABLES
   public = panel;
-   public label;
-   public text;
-   public boton;
-   public boton2;
+   public =label;
+   public= text;
+   public =boton;
+   public=boton2;
     
             
 

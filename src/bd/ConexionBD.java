@@ -43,17 +43,9 @@ public class ConexionBD
     }
     
     //PASO 13 - DEFINICION METODOS PARA CONECTAR Y DESCONECTAR
-    public Connection conectar()
-    {
-        return conex;//Retorna el objeto conex  
-    }
-    
-    public void desconectar()
-    {
-      conex=null;
-        if (conex==null) 
-        {
-          System.out.println("Conexion Finalizada");
-        }
-    }
-}
+   
+import java.awt.Color;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
